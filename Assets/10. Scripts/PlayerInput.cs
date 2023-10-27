@@ -14,7 +14,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Utilities;
-//proba ot Priveta
+// ot Priveta
 public partial class @PlayerInput: IInputActionCollection2, IDisposable
 {
     public InputActionAsset asset { get; }
