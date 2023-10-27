@@ -36,7 +36,6 @@ public class CameraController : MonoBehaviour
         camera1.SetActive(true); camera2.SetActive(false); camera3.SetActive(false); camera4.SetActive(false); hero.onMouseCameraRotate = false;
         anim.runtimeAnimatorController = animator1;
 
-        Application.targetFrameRate = 400;
     }
 
     int rCount = 0;
